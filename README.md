@@ -14,4 +14,5 @@ To analyze sales trends, identify top-performing products, and visualize key bus
 - Visualized Profit vs. Revenue across different product categories.
 
 ### 📊 Dashboard Preview
-![Sales Dashboard](link_to_your_uploaded_image_here)
+![Sales Dashboard]
+(https://github.com/vidhyasri-data/Sales-Performance-Analytics/blob/main/Screenshot%202026-04-29%20162702.png?raw=true)
