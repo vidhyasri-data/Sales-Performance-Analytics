@@ -1,0 +1,151 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,State,Region,Product Name,Category,Sales,Quantity,Discount,Profit,Shipping Days
+Ve-6459-774494,2024-03-01 00:00:00,2025-03-16 00:00:00,Raymond Hodges,Corporate,California,East,Pen Set,Storage,647.92,8,0.3,114.55,380
+Yt-0688-736606,2024-03-30 00:00:00,2024-12-23 00:00:00,Michael West,Corporate,Illinois,Central,Office Chair,Furniture,410.73,2,0,450.61,268
+rz-4962-318636,2024-01-04 00:00:00,2024-12-29 00:00:00,Rebecca Stewart,Corporate,Illinois,West,Desk Lamp,Storage,546.59,5,0.3,-16.59,360
+KF-6615-807782,2024-03-16 00:00:00,2024-05-08 00:00:00,Melvin Huffman,Consumer,Texas,South,Whiteboard,Stationery,519.77,8,0,194.32,53
+ph-8214-271190,2024-02-29 00:00:00,2025-04-30 00:00:00,Ian Gibson,Consumer,Michigan,Central,Desk Lamp,Storage,202.59,9,0.3,105.66,426
+WA-3076-485939,2024-06-20 00:00:00,2025-03-20 00:00:00,Craig Owens,Home Office,Georgia,West,Whiteboard,Accessories,134.34,2,0.3,377.36,273
+XM-7722-166123,2024-06-16 00:00:00,2024-10-27 00:00:00,Carol Ballard,Home Office,Georgia,Central,Filing Cabinet,Stationery,844.37,9,0.3,72.52,133
+RT-7560-420368,2023-12-01 00:00:00,2024-07-06 00:00:00,Stephanie Hebert,Home Office,Florida,East,Stapler,Storage,62.98,5,0,101.35,218
+nG-1211-156187,2024-01-15 00:00:00,2025-02-05 00:00:00,Tyler Stark,Home Office,Ohio,South,Stapler,Technology,214.68,4,0.3,468.36,387
+ly-9995-590541,2023-10-10 00:00:00,2024-02-04 00:00:00,Regina Cummings,Home Office,Florida,Central,Projector,Technology,177.12,6,0.2,165.35,117
+BW-7815-971104,2024-04-22 00:00:00,2025-03-21 00:00:00,Jenna Woodard,Corporate,Georgia,South,Stapler,Technology,447.76,4,0.3,-148.93,333
+Vw-7762-569971,2023-11-04 00:00:00,2024-01-07 00:00:00,Rachel Brooks,Consumer,Georgia,Central,Projector,Technology,846.01,9,0.3,-3.33,64
+UL-7418-995314,2023-11-07 00:00:00,2024-08-30 00:00:00,Kimberly Barr,Home Office,New York,East,Paper Ream,Accessories,733.31,5,0.1,341.64,297
+DG-1073-539694,2023-06-24 00:00:00,2024-04-28 00:00:00,Sharon Hart,Home Office,Michigan,South,Notebook,Accessories,258.65,9,0.2,-92.01,309
+oI-9126-809665,2024-03-12 00:00:00,2025-01-05 00:00:00,Thomas Diaz,Consumer,California,East,Office Chair,Furniture,353.78,3,0.3,-103.77,299
+Bh-2687-025851,2024-05-16 00:00:00,2024-09-16 00:00:00,Wanda Baxter,Home Office,New York,East,Pen Set,Technology,745.54,3,0.1,466.63,123
+bi-4491-222974,2023-07-19 00:00:00,2025-04-10 00:00:00,Ryan Douglas,Home Office,Florida,Central,Notebook,Technology,816.69,2,0.1,-129.58,631
+Jq-6287-699177,2023-10-30 00:00:00,2024-05-09 00:00:00,Aaron Martin,Consumer,California,West,Whiteboard,Storage,90.71,9,0,368.93,192
+Zq-7504-915321,2024-01-11 00:00:00,2024-11-26 00:00:00,Barbara Richards,Corporate,Georgia,South,Desk Lamp,Furniture,260.61,8,0.2,116.34,320
+ut-6939-819952,2023-10-13 00:00:00,2024-03-26 00:00:00,Joel Wilson,Consumer,Michigan,South,Desk Lamp,Technology,521.94,2,0.1,-79.15,165
+XX-4675-223816,2024-02-11 00:00:00,2024-09-09 00:00:00,Mrs. Anne Lynch,Consumer,Michigan,South,Projector,Technology,34.22,6,0,139.61,211
+cX-4297-129104,2023-08-27 00:00:00,2024-11-29 00:00:00,Nicole Adams,Home Office,Texas,East,Pen Set,Storage,949.67,10,0.1,139.93,460
+ti-4752-734688,2023-10-06 00:00:00,2024-05-27 00:00:00,Leslie Todd,Corporate,Ohio,South,Laptop Stand,Stationery,228.16,7,0,301.03,234
+YT-7763-659584,2023-07-23 00:00:00,2025-05-21 00:00:00,Kevin Melton,Consumer,New York,South,Pen Set,Storage,615.28,4,0.3,483.76,668
+Ih-1944-216429,2024-06-10 00:00:00,2024-08-28 00:00:00,Jeffrey Baker,Consumer,Georgia,Central,Desk Lamp,Storage,240.41,10,0,280.45,79
+Wc-0129-207578,2023-08-17 00:00:00,2024-12-12 00:00:00,Laura Stafford,Home Office,Georgia,South,Office Chair,Accessories,748.1,5,0,189.53,483
+nk-6222-663941,2023-10-29 00:00:00,2024-03-15 00:00:00,Jeremy Alvarado,Consumer,Florida,Central,Desk Lamp,Storage,200.5,9,0,-119.44,138
+ZN-6900-490748,2024-05-25 00:00:00,2024-11-19 00:00:00,Kevin Brooks,Consumer,California,West,Whiteboard,Technology,968.64,9,0.1,-127.9,178
+TQ-0352-853536,2024-05-04 00:00:00,2025-01-21 00:00:00,Sydney Lopez,Home Office,California,Central,Pen Set,Technology,614.44,10,0.3,85.39,262
+BZ-4747-203541,2023-10-11 00:00:00,2024-01-28 00:00:00,Mark Clarke,Corporate,New York,West,Notebook,Furniture,76.64,2,0.3,274.73,109
+ib-8156-417372,2023-11-15 00:00:00,2024-12-21 00:00:00,Mrs. Sarah Reed,Consumer,Ohio,Central,Whiteboard,Technology,783.25,4,0.1,378.62,402
+FA-1170-256038,2024-02-10 00:00:00,2025-01-23 00:00:00,Gail Ortiz,Home Office,Texas,South,Stapler,Technology,797.94,6,0,317.43,348
+Xo-2260-193752,2023-07-01 00:00:00,2024-07-14 00:00:00,Mariah Thompson,Consumer,California,East,Office Chair,Accessories,664.39,1,0.1,104.43,379
+PB-0666-621819,2023-11-06 00:00:00,2024-02-07 00:00:00,Karen Jones,Corporate,Texas,West,Stapler,Technology,56.24,5,0.3,173.57,93
+ay-9274-027182,2023-11-03 00:00:00,2024-10-08 00:00:00,Jordan Johnson,Home Office,California,Central,Pen Set,Furniture,329.29,8,0.1,201.48,340
+cS-0482-158570,2023-06-29 00:00:00,2023-11-08 00:00:00,Megan Rodriguez,Consumer,Texas,South,Filing Cabinet,Furniture,840.29,10,0.3,194.29,132
+wj-8576-529437,2024-01-15 00:00:00,2024-04-12 00:00:00,Mark Carney,Home Office,Illinois,Central,Pen Set,Technology,626.47,8,0.1,343,88
+iQ-9697-910342,2024-01-07 00:00:00,2025-03-18 00:00:00,Eric Rivers,Corporate,New York,West,Notebook,Storage,970.52,6,0.3,464.11,436
+db-0146-995662,2024-03-09 00:00:00,2024-06-02 00:00:00,Patrick Hansen,Consumer,Florida,Central,Laptop Stand,Furniture,646.6,10,0.3,282.04,85
+WG-2140-218810,2023-12-10 00:00:00,2024-09-07 00:00:00,Robert Barton,Corporate,Georgia,West,Stapler,Accessories,347.64,3,0.1,481.14,272
+Zb-1311-042826,2023-07-27 00:00:00,2024-01-13 00:00:00,Alexander Williams,Home Office,Georgia,East,Laptop Stand,Technology,466.1,1,0.3,406.48,170
+SC-5394-767340,2023-08-11 00:00:00,2025-05-18 00:00:00,Scott Nguyen,Corporate,Illinois,South,Stapler,Technology,291.19,8,0.2,-5.48,646
+RP-3081-384751,2024-02-17 00:00:00,2025-01-26 00:00:00,Scott Wood,Consumer,Michigan,South,Pen Set,Storage,98.23,6,0.2,3.48,344
+iw-0117-289298,2024-01-15 00:00:00,2024-04-20 00:00:00,Mary Moore,Corporate,Michigan,West,Office Chair,Accessories,250.14,4,0,249.49,96
+xj-7744-151786,2023-08-29 00:00:00,2025-02-15 00:00:00,Dominic Vaughn,Consumer,New York,South,Filing Cabinet,Accessories,609.56,9,0.1,143.38,536
+WL-5506-089478,2023-10-21 00:00:00,2024-07-04 00:00:00,Krystal Fry,Home Office,Georgia,South,Filing Cabinet,Accessories,526.4,7,0.1,481.3,257
+wB-0112-526687,2023-09-23 00:00:00,2024-11-03 00:00:00,Christopher Owens,Consumer,New York,South,Notebook,Furniture,991.7,2,0.2,13.07,407
+Yy-7924-276764,2023-09-13 00:00:00,2025-05-23 00:00:00,Gail Martinez,Corporate,Michigan,East,Paper Ream,Storage,393.63,9,0.1,208.09,618
+gF-6829-323046,2024-02-29 00:00:00,2025-05-04 00:00:00,Jacob Foley,Consumer,Michigan,South,Office Chair,Storage,330.21,2,0.3,306.65,430
+rM-7774-684045,2024-05-26 00:00:00,2025-06-02 00:00:00,Jasmin King,Home Office,New York,South,Pen Set,Furniture,753.13,2,0.3,-108.27,372
+dq-7918-809051,2024-02-10 00:00:00,2024-06-05 00:00:00,Eric Hutchinson,Corporate,Texas,East,Pen Set,Accessories,516.35,2,0.1,-90.73,116
+Pt-3747-784566,2023-08-17 00:00:00,2025-03-13 00:00:00,Jennifer Kirk,Consumer,California,South,Desk Lamp,Stationery,539.41,8,0.2,202.32,574
+LZ-1324-187944,2023-11-26 00:00:00,2024-11-03 00:00:00,Gavin Quinn,Corporate,Texas,Central,Notebook,Technology,120.85,2,0.1,-198.71,343
+mO-6535-717185,2024-04-30 00:00:00,2025-04-20 00:00:00,Timothy Blanchard,Corporate,Georgia,South,Projector,Furniture,769.79,9,0,492.43,355
+IF-8795-356803,2023-07-04 00:00:00,2024-02-04 00:00:00,Sally Marsh,Corporate,California,West,Projector,Accessories,858.91,1,0.3,358.82,215
+dA-3399-795355,2024-01-21 00:00:00,2025-03-28 00:00:00,Jeffrey Brown,Corporate,Texas,South,Filing Cabinet,Accessories,728.42,5,0.1,-106.95,432
+pY-9647-924433,2024-04-04 00:00:00,2024-07-14 00:00:00,Edwin Mckinney,Consumer,Michigan,Central,Notebook,Accessories,797.98,1,0,188.27,101
+lw-0100-349778,2023-08-08 00:00:00,2023-12-04 00:00:00,Karen Zavala,Consumer,Ohio,South,Laptop Stand,Storage,635.52,5,0,330.44,118
+od-6907-909967,2023-09-13 00:00:00,2024-05-31 00:00:00,Monica Richardson,Consumer,Florida,South,Pen Set,Storage,738.36,1,0.1,194.68,261
+bX-0819-351056,2024-04-04 00:00:00,2024-04-04 00:00:00,Sara Pittman,Home Office,Georgia,South,Office Chair,Stationery,565.96,8,0,-137.66,0
+ej-9173-811749,2023-10-25 00:00:00,2024-05-21 00:00:00,Joy Moore DDS,Corporate,California,West,Stapler,Storage,717.68,1,0.2,437.27,209
+cg-5643-300392,2023-12-19 00:00:00,2025-05-31 00:00:00,Kirsten Cox,Consumer,New York,West,Pen Set,Storage,963.06,10,0.2,26.41,529
+kD-7248-489612,2024-05-10 00:00:00,2024-07-19 00:00:00,John Matthews,Corporate,Illinois,Central,Projector,Accessories,82.38,6,0.2,190.74,70
+rf-5095-887130,2023-10-18 00:00:00,2024-10-14 00:00:00,Zachary Jimenez,Consumer,Texas,Central,Notebook,Accessories,759.35,2,0.3,71.78,362
+BL-8932-048769,2023-10-02 00:00:00,2024-08-25 00:00:00,Tyler Bullock,Consumer,New York,West,Notebook,Storage,309.87,6,0.1,144.76,328
+Zr-7899-659216,2024-03-15 00:00:00,2025-06-05 00:00:00,Laura Davis,Corporate,Florida,West,Pen Set,Storage,668.25,3,0.2,144.19,447
+mB-6925-121406,2023-07-29 00:00:00,2025-03-25 00:00:00,Gilbert Cole,Corporate,Michigan,Central,Filing Cabinet,Stationery,822.82,2,0.3,43.22,605
+Fk-4798-094020,2024-05-10 00:00:00,2024-10-01 00:00:00,Heather Moore,Consumer,New York,South,Notebook,Furniture,429.37,4,0.3,-49.89,144
+dM-8779-975553,2023-11-18 00:00:00,2024-04-17 00:00:00,Madeline Wilson,Corporate,Michigan,East,Laptop Stand,Accessories,526.16,3,0.2,-140.14,151
+ik-0309-222153,2023-09-29 00:00:00,2025-02-11 00:00:00,Nicole Johnson,Consumer,Florida,West,Office Chair,Stationery,196.46,9,0.2,109.6,501
+Bu-9045-578969,2024-01-20 00:00:00,2025-06-16 00:00:00,Mary Wong,Corporate,Illinois,South,Desk Lamp,Technology,254.41,3,0.3,309.68,513
+xG-4487-427070,2024-03-31 00:00:00,2024-11-28 00:00:00,Ms. Jennifer Stephenson,Consumer,Georgia,West,Pen Set,Furniture,788.2,3,0.3,46.75,242
+ZA-8470-705279,2023-09-01 00:00:00,2024-05-21 00:00:00,Dr. Ashley Williams,Home Office,New York,South,Paper Ream,Technology,921.29,1,0,180.1,263
+ud-0422-836031,2024-04-03 00:00:00,2025-03-22 00:00:00,Richard Jenkins,Home Office,California,West,Office Chair,Technology,828.04,7,0.3,190.62,353
+gx-1640-633190,2023-10-06 00:00:00,2025-06-08 00:00:00,Amber Coleman,Corporate,Florida,Central,Projector,Furniture,295.44,8,0.1,199.39,611
+Xc-4208-091604,2024-03-01 00:00:00,2024-12-25 00:00:00,Elizabeth Ray,Consumer,California,West,Notebook,Accessories,238.74,6,0.3,410.83,299
+EN-9271-498959,2023-12-25 00:00:00,2025-04-15 00:00:00,Emily Joyce,Home Office,New York,East,Filing Cabinet,Stationery,283.09,3,0.2,171.57,477
+Ea-6682-961839,2024-01-01 00:00:00,2024-07-31 00:00:00,David Cox,Consumer,Ohio,South,Filing Cabinet,Accessories,406.49,7,0.1,421.17,212
+Sl-2567-489341,2023-06-27 00:00:00,2024-04-13 00:00:00,Shannon Johnson,Corporate,Georgia,West,Notebook,Furniture,751.13,1,0.1,335.17,291
+Ig-2444-270832,2023-09-25 00:00:00,2023-11-14 00:00:00,Matthew Collier,Corporate,Georgia,East,Laptop Stand,Furniture,537.71,4,0.3,373.15,50
+sQ-2084-969913,2023-07-29 00:00:00,2025-01-27 00:00:00,Jamie Jackson,Home Office,Ohio,East,Projector,Storage,931.25,5,0.2,412.16,548
+dr-6300-469540,2024-01-02 00:00:00,2025-01-04 00:00:00,Derek Robertson,Home Office,Ohio,East,Pen Set,Storage,295.28,5,0.1,-77.55,368
+WJ-6560-407723,2023-09-16 00:00:00,2024-07-11 00:00:00,Jamie Martinez,Consumer,Georgia,Central,Notebook,Furniture,511.44,2,0.2,-119.49,299
+AR-1483-870495,2024-01-05 00:00:00,2025-04-17 00:00:00,Ryan Perez,Home Office,Illinois,Central,Paper Ream,Technology,765.86,10,0.3,47.44,468
+xj-5920-120889,2024-04-03 00:00:00,2025-04-03 00:00:00,Mrs. Amber Salazar DDS,Home Office,Michigan,West,Stapler,Storage,480.36,9,0.1,190.8,365
+cJ-9239-593962,2023-12-28 00:00:00,2024-10-23 00:00:00,Nicholas Jackson,Consumer,New York,Central,Whiteboard,Storage,914.84,10,0.1,386.21,300
+xi-6849-943036,2024-06-18 00:00:00,2025-05-08 00:00:00,Paul Kirk,Consumer,New York,South,Laptop Stand,Technology,125.81,6,0.2,390.59,324
+iX-0189-425085,2023-09-01 00:00:00,2024-04-07 00:00:00,Danielle Murray,Consumer,New York,West,Paper Ream,Stationery,831.91,5,0.1,-24.92,219
+ew-3957-180116,2024-03-20 00:00:00,2024-09-04 00:00:00,Ronald Holloway,Home Office,Georgia,Central,Filing Cabinet,Furniture,95.86,5,0.2,351.58,168
+Td-6593-177127,2023-07-16 00:00:00,2025-02-07 00:00:00,Jessica Molina,Corporate,Illinois,West,Laptop Stand,Accessories,301.61,7,0,-36.76,572
+KG-8192-383029,2023-10-09 00:00:00,2024-04-24 00:00:00,Brittany Vaughan,Home Office,New York,South,Desk Lamp,Stationery,451.42,5,0.3,148,198
+Jn-9992-320803,2023-12-26 00:00:00,2024-12-31 00:00:00,Ashley Garcia,Corporate,Ohio,East,Notebook,Storage,353.98,10,0.3,290.19,371
+yj-3238-275099,2023-08-27 00:00:00,2025-01-19 00:00:00,Antonio Brown,Home Office,Illinois,Central,Filing Cabinet,Technology,131.99,10,0.2,334.65,511
+GI-9882-877486,2024-02-18 00:00:00,2024-10-22 00:00:00,Shawn Juarez,Consumer,Georgia,West,Laptop Stand,Furniture,231.97,3,0,119.57,247
+Nh-0060-072567,2024-06-06 00:00:00,2025-05-17 00:00:00,Kelli Hughes,Home Office,Texas,West,Laptop Stand,Stationery,421.38,10,0.2,305.61,345
+Jp-1851-989018,2023-08-10 00:00:00,2025-02-22 00:00:00,Beth Hernandez,Corporate,Texas,South,Paper Ream,Accessories,20.13,4,0,340.15,562
+eJ-8644-778657,2023-06-30 00:00:00,2024-03-21 00:00:00,Jose Smith,Home Office,California,Central,Desk Lamp,Technology,791.95,7,0.3,450.59,265
+om-5699-833282,2023-08-30 00:00:00,2024-10-26 00:00:00,Tamara Kane,Home Office,Georgia,South,Desk Lamp,Technology,140.56,1,0,237.39,423
+Vu-2993-621132,2023-07-06 00:00:00,2023-10-11 00:00:00,Paul Dominguez,Corporate,Texas,South,Whiteboard,Storage,598.47,4,0,489.7,97
+rB-3509-969360,2024-06-18 00:00:00,2025-04-28 00:00:00,Ralph Anderson,Corporate,California,West,Notebook,Stationery,205.58,1,0.3,435.38,314
+QP-8820-343593,2023-12-02 00:00:00,2025-02-26 00:00:00,Zachary Wagner,Corporate,California,East,Filing Cabinet,Storage,70.68,10,0,397.41,452
+jL-3357-712228,2024-06-03 00:00:00,2025-03-20 00:00:00,Roberto Mcdaniel,Consumer,New York,South,Paper Ream,Stationery,590.36,6,0.3,136.25,290
+Ql-3774-105237,2023-09-30 00:00:00,2023-12-17 00:00:00,Brandy Trevino,Consumer,Ohio,East,Whiteboard,Accessories,956.76,7,0.1,-108.94,78
+QM-2579-142760,2024-04-26 00:00:00,2024-05-15 00:00:00,Kenneth Hill,Home Office,Florida,East,Desk Lamp,Stationery,141.02,9,0,182.88,19
+vC-6653-849649,2024-05-13 00:00:00,2024-12-14 00:00:00,Katelyn Summers,Consumer,Ohio,East,Stapler,Technology,444.66,5,0.2,213.11,215
+Wa-9247-186081,2023-11-01 00:00:00,2024-06-28 00:00:00,Dennis Martin,Consumer,Georgia,South,Projector,Technology,345.96,7,0.2,274.52,240
+oo-4168-834596,2023-08-23 00:00:00,2024-05-31 00:00:00,Melissa Roberson,Corporate,Georgia,East,Laptop Stand,Furniture,689.27,8,0,327.93,282
+vG-6307-490880,2024-01-05 00:00:00,2025-05-15 00:00:00,Jeanne Meyer,Corporate,California,East,Filing Cabinet,Furniture,411.32,6,0.3,215.4,496
+GP-2049-174145,2023-11-08 00:00:00,2025-06-22 00:00:00,Michelle Foster,Consumer,Texas,East,Desk Lamp,Technology,746.61,3,0,250.55,592
+Ym-4596-615515,2023-09-26 00:00:00,2023-10-11 00:00:00,Dr. Angela Castillo,Consumer,New York,West,Paper Ream,Storage,446.98,10,0.2,217.5,15
+Of-2097-262034,2023-08-02 00:00:00,2023-11-08 00:00:00,Samantha Fernandez,Consumer,California,East,Pen Set,Accessories,659.42,7,0,65.81,98
+Rj-2735-195482,2023-12-24 00:00:00,2024-12-07 00:00:00,Kimberly Jackson,Corporate,Illinois,East,Desk Lamp,Storage,263.88,7,0.1,281.76,349
+tZ-9866-031027,2023-08-15 00:00:00,2023-10-25 00:00:00,Joe Bell,Consumer,Texas,East,Laptop Stand,Accessories,594.38,4,0.1,209.92,71
+FF-8865-855713,2023-09-22 00:00:00,2025-02-16 00:00:00,Jonathan Johnson,Home Office,California,South,Notebook,Technology,563.85,10,0.1,105.09,513
+Yz-9897-833127,2024-03-10 00:00:00,2024-10-03 00:00:00,Anna Bass,Consumer,Texas,Central,Laptop Stand,Stationery,46.39,7,0.3,204.87,207
+yB-3349-538894,2023-11-24 00:00:00,2024-11-25 00:00:00,Dr. Matthew Meyers,Home Office,Michigan,Central,Projector,Storage,747.11,4,0.1,-63.2,367
+Ow-8649-411803,2024-05-11 00:00:00,2025-03-29 00:00:00,James Bell,Home Office,Illinois,West,Whiteboard,Furniture,382.81,8,0,300,322
+GB-7613-566536,2023-10-23 00:00:00,2025-02-18 00:00:00,David Brown,Consumer,Texas,Central,Office Chair,Stationery,178.79,4,0.3,258.67,484
+Nb-3064-893753,2023-11-09 00:00:00,2024-12-03 00:00:00,Angela Li,Home Office,Illinois,West,Filing Cabinet,Storage,784.58,4,0,-68.19,390
+xM-6585-082455,2024-04-07 00:00:00,2024-07-10 00:00:00,Angela Tucker,Corporate,Florida,Central,Stapler,Storage,767.42,8,0,-133.18,94
+Kt-8307-177899,2024-01-18 00:00:00,2025-02-11 00:00:00,Eric Jenkins,Consumer,Georgia,West,Desk Lamp,Accessories,74.95,3,0.2,-14.74,390
+EZ-1240-458979,2024-06-18 00:00:00,2024-10-29 00:00:00,Jeffrey Kaiser,Corporate,Florida,Central,Projector,Storage,39.3,4,0.2,65.09,133
+Zs-7495-065815,2024-03-03 00:00:00,2025-04-22 00:00:00,Kelly Patton,Corporate,Illinois,East,Filing Cabinet,Accessories,72.43,6,0.2,13.72,415
+sV-8709-319475,2023-10-20 00:00:00,2024-03-26 00:00:00,Thomas Patterson,Home Office,California,Central,Notebook,Accessories,815.35,1,0.2,92.12,158
+HU-3935-554100,2024-05-17 00:00:00,2024-12-13 00:00:00,Donna Williams,Home Office,Illinois,South,Pen Set,Stationery,171.11,2,0.2,-117.19,210
+sG-0648-558066,2023-08-09 00:00:00,2024-08-06 00:00:00,Jason Anderson,Home Office,Michigan,East,Notebook,Stationery,671.68,9,0.3,395.79,363
+tP-2542-196896,2024-06-02 00:00:00,2024-10-24 00:00:00,Pamela Humphrey,Corporate,New York,Central,Stapler,Furniture,78.39,10,0,230.28,144
+rt-8365-390358,2024-05-31 00:00:00,2024-11-10 00:00:00,Sabrina Harris,Consumer,Michigan,Central,Laptop Stand,Technology,49.57,7,0.1,-164.17,163
+Zz-4684-229611,2024-04-12 00:00:00,2024-08-27 00:00:00,Scott Johnson,Corporate,Ohio,East,Desk Lamp,Storage,373.27,8,0.1,276.55,137
+uo-7503-320397,2023-11-14 00:00:00,2024-09-02 00:00:00,Tara Knight,Home Office,New York,Central,Filing Cabinet,Stationery,769.74,5,0.3,-112.28,293
+RT-4882-793398,2024-04-21 00:00:00,2024-06-23 00:00:00,Lisa Boyd,Corporate,Georgia,South,Laptop Stand,Accessories,823.61,10,0.2,-116.42,63
+eN-4913-712622,2024-02-10 00:00:00,2024-09-04 00:00:00,Samuel Rodriguez,Home Office,Michigan,East,Desk Lamp,Accessories,657.33,7,0.1,-43.36,207
+Dg-6496-523404,2024-05-19 00:00:00,2024-09-19 00:00:00,Sandra Kim,Corporate,Georgia,South,Desk Lamp,Storage,338.68,4,0.3,208.27,123
+WN-6972-890384,2024-01-06 00:00:00,2024-10-21 00:00:00,Deborah Simmons,Corporate,New York,South,Filing Cabinet,Storage,635.67,6,0.2,-11.05,289
+Uf-7359-978863,2023-07-30 00:00:00,2024-01-04 00:00:00,Sandra Murray,Consumer,Texas,Central,Laptop Stand,Stationery,557.82,3,0,277.35,158
+jH-6692-000361,2023-10-24 00:00:00,2024-04-16 00:00:00,Annette Wolfe,Home Office,New York,West,Pen Set,Accessories,642.7,8,0.1,96.92,175
+Ws-3842-794300,2024-05-22 00:00:00,2024-08-12 00:00:00,Brandon Hudson,Home Office,Michigan,South,Paper Ream,Accessories,867.52,1,0.1,220.56,82
+BO-9047-191374,2023-07-10 00:00:00,2023-11-11 00:00:00,Sandra Barnes,Home Office,Ohio,South,Filing Cabinet,Stationery,288.89,2,0.3,-191.09,124
+mn-0406-169929,2024-02-29 00:00:00,2025-06-09 00:00:00,Jessica Lin,Home Office,Texas,South,Office Chair,Storage,836.13,4,0,431.62,466
+Jf-2644-096232,2023-12-20 00:00:00,2025-03-22 00:00:00,Courtney Goodman,Home Office,California,West,Whiteboard,Accessories,738.16,4,0.1,479.26,458
+io-1554-413714,2024-03-20 00:00:00,2024-06-02 00:00:00,Robert Burke,Home Office,California,South,Notebook,Accessories,514.44,4,0.1,-180.7,74
+GM-0455-555087,2024-05-24 00:00:00,2024-06-11 00:00:00,Maria Cain,Corporate,Georgia,Central,Filing Cabinet,Storage,147.3,9,0.3,484.11,18
+KJ-7454-735758,2024-05-07 00:00:00,2024-11-03 00:00:00,Ernest Rodriguez,Corporate,Michigan,West,Filing Cabinet,Accessories,172.89,5,0.3,362.02,180
+Le-4759-048441,2023-08-06 00:00:00,2024-09-10 00:00:00,Daniel Wilcox,Corporate,New York,West,Paper Ream,Accessories,506.87,7,0,183.48,401
+ip-1912-875113,2023-07-20 00:00:00,2023-10-17 00:00:00,Bryan Brown,Corporate,New York,South,Filing Cabinet,Storage,132.12,4,0.2,153.6,89
+BP-7066-143309,2024-03-26 00:00:00,2024-12-11 00:00:00,John Brennan,Corporate,Georgia,South,Notebook,Furniture,642.8,4,0,175.35,260
+pP-4683-933651,2023-12-12 00:00:00,2024-12-04 00:00:00,Cynthia Warren,Consumer,New York,South,Projector,Storage,576.21,3,0.1,162.74,358
+Nn-0371-280475,2023-08-29 00:00:00,2024-01-14 00:00:00,Carl Velez,Corporate,Ohio,Central,Stapler,Technology,517.56,1,0.1,-25.99,138
+sN-1789-862195,2023-12-27 00:00:00,2025-01-13 00:00:00,Brandon King,Corporate,Illinois,Central,Filing Cabinet,Accessories,262.93,10,0,261.26,383
+Vs-3080-267628,2024-01-10 00:00:00,2024-10-01 00:00:00,Kristy Roberts,Home Office,Ohio,Central,Desk Lamp,Accessories,221.3,7,0,74.58,265
